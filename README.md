@@ -1,0 +1,3 @@
+# Dallebot
+
+First discord bot
